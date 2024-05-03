@@ -1,3 +1,5 @@
-# Bienvenido a Rooster Games
+# ¡Bienvenido a Rooster Games, donde los sueños de los videojuegos toman vuelo! 🐓🎮
 
-Somos un grupo de estudiantes con el deseo de crear videojuegos. Actualmente trabajamos en tres grandes proyectos:
+Aquí encontrarás el source para nuestros proyectos. Sí gustas formar parte, puedes contactarnos en nuestro [server de discord](https://discord.com/invite/6A5wwHVGGC).
+
+Para mayor información, consultar el [sitio](https://roostergamesclub.github.io/Site/index.html).
